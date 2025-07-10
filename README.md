@@ -47,22 +47,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30"/>
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30"/>
 </div>
-
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Oleksandra-Makar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/oleksandra-makar/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
 <br/>  
 
 
