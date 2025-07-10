@@ -20,7 +20,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Tech Skills  
 
 
 ### 🧩 Frontend
